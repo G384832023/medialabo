@@ -1,0 +1,28 @@
+*{
+    background: linear-gradient(to left ,aqua,white);
+}
+
+h1{
+    color: black;
+    text-shadow: 1px 0 30px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+}
+
+h2{
+    color: black;
+    text-shadow: 1px 0 30px black,
+    0 0 1em yellow,
+    0 0 0.2em yellow;
+}
+
+h3{
+    font-style: italic;
+}
+
+div#zu{
+    display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-rows: 300px 300px;
+	grid-gap: 10px;
+}
