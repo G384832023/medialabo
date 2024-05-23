@@ -52,7 +52,7 @@ console.log(data.coord.lat);
 console.log(data.weather.description);
 console.log(data.main.temp_min);
 console.log(data.main.temp_max);
-console.log(data.main.humidirity);
+console.log(data.main.humidity);
 console.log(data.wind.speed);
 console.log(data.wind.deg);
 console.log(data.name);
