@@ -29,13 +29,14 @@ function hantei() {
     }
   }
 }
-  // 課題3-1: 正解判定する
-  // kotae と yoso が一致するかどうか調べて結果を出力
-  // 課題3-1における出力先はコンソール
 
-  let kaisu1 = document.querySelector('span#kaisu');
-  kaisu1.textContent = kaisu;
-  let yoso1 = document.querySelector('span#answer');
-  yoso1.textContent = yoso;
-  let result1 = document.querySelector('p#result');
-  result1.textContent = result; 
+let kaisu1 = document.querySelector('span#kaisu');
+kaisu1.textContent = kaisu;
+let yoso1 = document.querySelector('span#answer');
+yoso1.textContent = yoso;
+let result1 = document.querySelector('p#result');
+result1.textContent = result;
+ 
+// 課題3-1: 正解判定する
+// kotae と yoso が一致するかどうか調べて結果を出力
+// 課題3-1における出力先はコンソール
