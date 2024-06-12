@@ -1,3 +1,22 @@
 body{
-    background-color:rgb(22, 111, 134);
+    background-color:rgb(58, 108, 208);
+    text-align: center; 
+}
+
+
+label{
+    font-size:x-large;
+    color: yellow;
+    border: solid 3px #364e96;
+    padding: 0.5em;
+    border-radius: 0.5em yellow;
+}
+
+select{
+    font-size:x-large;
+}
+
+button{
+    font-size:x-large;
+    background-color:yellow;
 }
