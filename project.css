@@ -1,8 +1,3 @@
-*{
-    background-image: url(url.png);
-}
-
 body{
-    background: linear-gradient(to left ,red,white);
-    text-align: center;
+    background-color:rgb(22, 111, 134);
 }
